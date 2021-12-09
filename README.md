@@ -1,4 +1,4 @@
-# Water_Drinking_Reminder
+# Water Drinking Reminder
 simple reminder for drinking up and keeping track,  nothing special here
 
 ### Screenshot
